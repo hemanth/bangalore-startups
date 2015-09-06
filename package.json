@@ -1,0 +1,30 @@
+{
+  "name": "bangalore-startups",
+  "version": "0.0.0",
+  "description": "Ever growing list of startups in Bangalore.",
+  "license": "MIT",
+  "repository": "hemanth/bangalore-startups",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "startups",
+    "list",
+    "Bangalore"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
