@@ -25,6 +25,6 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^3.0.1"
   }
 }
