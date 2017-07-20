@@ -620,6 +620,7 @@ console.log(Object.keys(bangaloreStartups)); // JSON {'name' : 'url'}
   'HashTag technologies',
   'Hashics',
   'Hashupp',
+	'Hasura',	
   'Haul Apparel ',
   'Hayagriva Business solutions',
   'Headoutt',
