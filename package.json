@@ -1,6 +1,6 @@
 {
   "name": "bangalore-startups",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Ever growing list of startups in Bangalore.",
   "license": "MIT",
   "repository": "hemanth/bangalore-startups",
@@ -13,7 +13,7 @@
     "node": ">= 4"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --exit test.js"
   },
   "files": [
     "index.js"
@@ -25,6 +25,6 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^3.1.1"
+    "mocha": "^11.7.0"
   }
 }
